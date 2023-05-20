@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jobo-app",
+    "slug": "jobo-app",
+    "ios": {},
+    "android": {}
+  }
+}
